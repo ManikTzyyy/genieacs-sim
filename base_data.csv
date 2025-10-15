@@ -228,7 +228,7 @@ InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.PreSharedKey,true,false,,
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.PreSharedKey.1,true,false,,
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.PreSharedKey.1.PreSharedKey,false,true,,xsd:string
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.RegulatoryDomain,false,true,IQ,xsd:string
-InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSID,false,true,404 WiMAX Not Found,xsd:string
+InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSID,false,true,SSID,xsd:string
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.SSIDAdvertisementEnabled,false,true,true,xsd:boolean
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Standard,false,true,b/g/n,xsd:string
 InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Status,false,false,up,xsd:string
