@@ -25,7 +25,8 @@
     "node": ">=6.9.2 <7.0"
   },
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "fast-csv": "^5.0.5"
   },
   "bin": "./genieacs-sim"
 }
