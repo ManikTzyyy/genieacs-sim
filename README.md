@@ -8,6 +8,20 @@ To install:
     cd genieacs-sim
     npm install
 
-To use:
+    chmod +x run-all-csv.sh stop-all-csv.sh
+
+
+Generate device:
+
+    node generate.js
+
+To run:
+    ./run-all-csv.sh
+
+To stop:
+    ./stop-all-csv.sh
+
+
+Help:
 
     ./genieacs-sim --help
